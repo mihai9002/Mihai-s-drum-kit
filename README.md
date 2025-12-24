@@ -19,4 +19,8 @@ a macropad drum kit with a digital encoder, so i can switch between presets, and
 - 1x 128x32  0.91" OLED Display
 - 7x Blank DSA keycaps
 - 4x M3x16mm screws
+<<<<<<< HEAD
 - 4x M3x5mx4mm heatset inserts
+=======
+- 4x M3x5mx4mm heatset inserts
+>>>>>>> d6a9b59c5bdaede601ab8f5ac71d9ea97c9b7e1e
