@@ -10,7 +10,7 @@ a macropad drum kit with a digital encoder, so i can switch between presets, and
 # CAD:
 <img src=assets/Pad.png>
 <img src=assets/Top.png>
-<img src=assets/.png>
+<img src=assets/Bottom.png>
 # BOM:
 1x XIAO RP2040
 7x Cherry MX Switches
